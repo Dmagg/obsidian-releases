@@ -47213,5 +47213,12 @@
     "author": "thkim9916",
     "description": "Manage ServiceNow ticket notes, work notes, document links, status updates, and task dashboards. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kth9916/obsidian-servicenow-manage"
-  }
+  },
+  {
+    "id": "translate-note",
+    "name": "TranslateNote",
+    "author": "D.maggiora",
+    "description": "Translate a selection or a whole note with any OpenAI-compatible LLM. The translation opens in a side panel for review, so the note only changes when you insert it. YAML front-matter is left intact.",
+    "repo": "Dmagg/obsidian-llm-translate"
+}
 ]
